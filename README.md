@@ -93,4 +93,6 @@ The given data cannot be fitted in Poisson Distribution at 1% LOS
 # Results
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
- 
+```
+ ## github :- https://github.com/Hemu143818/Poisson_distribution/blob/main/README.md
+```
