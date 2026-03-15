@@ -1,10 +1,7 @@
 # DATE:04.02.26
 
-# Fitting Poisson  distribution
-```
-## name:- k hemanth yadav
-## reg:- 212224100033
-```
+# ex2:Fitting Poisson  distribution
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
